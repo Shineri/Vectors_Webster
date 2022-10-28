@@ -1,4 +1,4 @@
-# Scalars_Webster
+# Vectors_Webster
 Team Members 
 1-Team Leader-Ritu Gupta( 20215059) ,( 8299283338)( ritugupta22332@gmail.com),( ritu.20215059@mnnit.ac.in)
 2-Sahithi Tammana (20214541),( +971 56 791 0979),( sahithi.tammana9@gmail.com),( sahithi.20214541@mnnit.ac.in)
